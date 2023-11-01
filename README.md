@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @wildanardian
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning PHP, C++, and using Laravel for PHP Framework
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me wildanardian18@gmail.com
+
+<h1>Hi! I'm Wildan</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
