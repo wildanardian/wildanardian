@@ -9,7 +9,7 @@
 </div>
 <div>
   Programming:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height=150 width=150>
 </div>
 
 <!---
