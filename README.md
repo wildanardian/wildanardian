@@ -4,8 +4,12 @@
 - 📫 How to reach me wildanardian18@gmail.com
 
 <div id="header" align="center">
-  <h1><a href="github.com/wildanardian">Hi! I'm Wildan</h1>
+  <h1>Hi! I'm Wildan</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div>
+  Programming:
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
 </div>
 
 <!---
